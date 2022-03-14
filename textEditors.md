@@ -7,9 +7,9 @@
 - options to consider: notepad++, Visual Studio Code (by microsoft), Atom (associated with GitHub)
 - IDE = Integrated Development Environment / suite of software that includes text editor, file manageer, compiler and debugger
 
-## Terminal
+# Terminal
 
-# Command line
+## Command line
 
 - text based inferface vs. icons
 - Linux - find it under applications / system or applications / utilities
