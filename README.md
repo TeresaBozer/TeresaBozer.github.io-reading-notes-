@@ -13,4 +13,4 @@ This is the belief that one can learn regardless of one's talents and innate abi
 [Link](https://unsplash.com/photos/bH7kZ0yazB0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 # Links to other pages
-[Link](/)
+[Link](/markdown.md)
