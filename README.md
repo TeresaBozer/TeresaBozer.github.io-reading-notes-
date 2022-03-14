@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-##Growth Mindset
+
+## Growth Mindset
+
 This is the belief that one can learn regardless of your talents and innate abilities.  It may take some people longer than others to reach the same level of competence; however, one must be willing to persevere, regardless of the challenges that one will face.
 Things to remember
 1.  It will not always be easy, but so what.  I have been through plenty of hard things.
