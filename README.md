@@ -8,7 +8,7 @@ This is the belief that one can learn regardless of one's talents and innate abi
 
 ### Things to remember
 1. It will not always be easy, but _so what_? I have been through plenty of hard things.
-2. I have always been a willing learner, and I can learn this too.
+2. I have always been a willing learner, and I can learn this ***too***!
 3. I know how to make use of resources.  I am willing to ask for help.
 
 >***If at first you don't succeed, try, try again!***

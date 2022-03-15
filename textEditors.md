@@ -7,9 +7,7 @@
 - options to consider: notepad++, Visual Studio Code (by microsoft), Atom (associated with GitHub)
 - IDE = Integrated Development Environment / suite of software that includes text editor, file manager, compiler and debugger
 
-# Terminal
-
-## Command line
+## Terminal Command Line
 
 - text based inferface vs. icons
 - Linux - find it under applications / system or applications / utilities
@@ -36,5 +34,4 @@
 - case sensitive
 - no spaces
 - quotes other marks cause problems \ nullifies marks
-- ls -a hidden fiales and directories
-- 
+- ls -a hidden files and directories
