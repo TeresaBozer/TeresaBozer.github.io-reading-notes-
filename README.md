@@ -1,4 +1,4 @@
-## Reading-notes
+## Reading Notes
 
 ## Table of Contents
 - [Markdown](/markdown.md)
