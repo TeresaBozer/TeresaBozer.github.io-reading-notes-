@@ -1,6 +1,11 @@
+My name is Teresa Bozer.  I am a world language teacher pivoting and exploring computer language.
+
+
 ## Table of Contents
 - [Markdown](/markdown.md)
 - [Text Editors](/textEditors.md)
+- [Git](/git.md)
+
 
 ## Growth Mindset
 
