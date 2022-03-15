@@ -5,7 +5,7 @@
 - text editors on your machine are not robust
 - create a folder for storing your website
 - options to consider: notepad++, Visual Studio Code (by microsoft), Atom (associated with GitHub)
-- IDE = Integrated Development Environment / suite of software that includes text editor, file manageer, compiler and debugger
+- IDE = Integrated Development Environment / suite of software that includes text editor, file manager, compiler and debugger
 
 # Terminal
 
