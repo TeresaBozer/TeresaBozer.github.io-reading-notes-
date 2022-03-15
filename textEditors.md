@@ -27,7 +27,7 @@
 - /bin location of several commonly used programs
 - /usr/bin another location for programs on the system
 
-#Files
+# Files
 - file.exe / executable file or program
 - file.txt / a plain text file
 - file.png, .gif, .jpg = image
