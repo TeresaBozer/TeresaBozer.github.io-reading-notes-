@@ -1,4 +1,4 @@
-# Title
+# Class Notes
 
 ## Reading Notes
 
@@ -6,6 +6,7 @@
 - [Markdown](/markdown.md)
 - [Text Editors](/textEditors.md)
 - [Git](/git.md)
+- [Structuring Pages](/structurePages.md)
 
 ## Introduction
 
