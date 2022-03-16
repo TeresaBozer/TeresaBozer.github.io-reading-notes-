@@ -7,7 +7,7 @@
 - [Text Editors](/textEditors.md)
 - [Git](/git.md)
 - [Structuring Pages](/structurePages.md)
-
+- [CSS](/css.md)
 ## Introduction
 
 My name is Teresa Bozer.  I am a world language teacher pivoting and exploring computer language.
