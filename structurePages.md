@@ -32,3 +32,16 @@
 - _Step 6_ Turn wireframe into prototype - tools to use are Proto.io, Adobe XD, Sketch, Figma and Framer
 
 - Keys to good wireframe: clarity of site, user confidence, simplicity
+
+## HTML
+
+- markup language, defines structure of content, enclosing tags define what happens to text
+- element = opening tag + closing tag + content
+- elements can have attributes WITHIN OPENING TAG: class="editor-note"
+- nesting elements around certain text only ex: strong around a word
+- empty element like img
+- parts of HMTL - see book or website
+
+
+
+
