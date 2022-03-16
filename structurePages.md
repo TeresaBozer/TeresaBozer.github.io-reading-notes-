@@ -42,6 +42,10 @@
 - empty element like img
 - parts of HMTL - see book or website
 
+## Semantics
+
+- the use of real words to give meaning to the code
+
 
 
 

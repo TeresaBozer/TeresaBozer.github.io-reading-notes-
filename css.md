@@ -1,4 +1,4 @@
-## CSS overiew
+## CSS overview
 
 - cascading style sheets
 - provides more style options for text and elements, including animation
